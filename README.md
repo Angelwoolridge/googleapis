@@ -13,7 +13,7 @@ libraries, documentation, and other artifacts.
 The recommended way to build the API client libraries is through
 [Bazel](https://bazel.build/) >= 4.2.2.
 
-First, [install bazel](https://docs.bazel.build/versions/master/install.html).
+First, [install  bazel](https://docs.bazel.build/versions/master/install.html).
 
 To build all libraries:
 
